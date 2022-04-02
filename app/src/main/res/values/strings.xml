@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="select">Selected Music: </string>
+    <string name="time">Time: </string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="title_activity_error">Error</string>
+    <string name="error_msg">Please upload MP3 files to the Download folder of your device and allow this app to access device storage (by pressing the button below or by going to app permissions in device settings) if you have not already done so in order to use the MP3 Player. If you have done both of these but are still seeing this message, please restart this app. Email all questions and concerns to\nanirudhv@purdue.edu.</string>
+    <string name="permreq">Provide Access to Storage</string>
+    <string name="restart">Restart Application</string>
+</resources>
